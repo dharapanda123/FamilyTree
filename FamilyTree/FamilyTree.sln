@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTree", "FamilyTree\FamilyTree.csproj", "{9C1A69AB-D345-49F2-831A-79234C60AB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTree.Tests", "FamilyTree.Tests\FamilyTree.Tests.csproj", "{984A5BFF-EEF8-4BBE-9C19-30B246C3105E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1A69AB-D345-49F2-831A-79234C60AB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1A69AB-D345-49F2-831A-79234C60AB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1A69AB-D345-49F2-831A-79234C60AB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1A69AB-D345-49F2-831A-79234C60AB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984A5BFF-EEF8-4BBE-9C19-30B246C3105E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984A5BFF-EEF8-4BBE-9C19-30B246C3105E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984A5BFF-EEF8-4BBE-9C19-30B246C3105E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984A5BFF-EEF8-4BBE-9C19-30B246C3105E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
