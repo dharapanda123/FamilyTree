@@ -8,7 +8,5 @@ namespace FamilyTree.Models
     public class Relationship
     {
         public int Id { get; set; }
-        public virtual List<Individual> Individuals { get; set; }
-        public List<Family> Families { get; set; }
     }
 }

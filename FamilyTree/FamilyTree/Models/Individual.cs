@@ -12,6 +12,10 @@ namespace FamilyTree.Models
         public string Last_Name { get; set; }
         public string Date_Of_birth { get; set; }
         public string Place_Of_Birth { get; set; }
-
+        public virtual List<Relationship> Relations { get; set; }
+        
+     
+      
+        
     }
 }
